@@ -2,7 +2,7 @@ main:
   - title: "Inicio"
     url: /
   - title: "Publicaciones"
-    url: /posts/
+    url: /year-archive/
   - title: "Categorias"
     url: /categories/
   - title: "Etiquetas"
